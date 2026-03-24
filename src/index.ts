@@ -1,3 +1,4 @@
+//index ts
 import { SEOManager } from './seo-manager';
 import { ImageOptimizer } from './image-optimizer';
 import { SEOConfig, ImageOptions } from './types';

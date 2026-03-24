@@ -1,3 +1,5 @@
+//utils ts
+
 import { SEOConfig } from './types';
 
 export function validateSEOConfig(config: SEOConfig): SEOConfig {

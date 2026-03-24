@@ -1,3 +1,4 @@
+//seo-manager.ts
 import { SEOConfig, MetaTag, SEOContext } from './types';
 import { formatUrl, validateSEOConfig } from './utils';
 

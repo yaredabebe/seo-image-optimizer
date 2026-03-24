@@ -1,3 +1,4 @@
+//src/image-optimizer.ts
 import { ImageOptions } from './types';
 
 export class ImageOptimizer {

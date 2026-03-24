@@ -2,11 +2,11 @@
 
 <div align="center">
 
-**The Ultimate SEO & Image Optimization Solution for Modern Web Applications**
+**Automatic SEO meta tags and image optimization for modern web apps.**
 
 [![npm version](https://badge.fury.io/js/seo-image-optimizer.svg)](https://badge.fury.io/js/seo-image-optimizer)[![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)[![Bundle Size](https://img.shields.io/bundlephobia/minzip/seo-image-optimizer)](https://bundlephobia.com/package/seo-image-optimizer)
 
-**Zero Config • Framework Agnostic • Production Ready**
+
 
 </div>
 

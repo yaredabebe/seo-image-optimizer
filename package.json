@@ -1,7 +1,7 @@
 {
   "name": "seo-image-optimizer",
-  "version": "1.0.0",
-  "description": "Powerful SEO and image optimization tool for modern web applications",
+  "version": "1.0.1",
+  "description": "Automatic SEO meta tags and image optimization for modern web apps",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "module": "dist/index.mjs",
